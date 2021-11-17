@@ -1,0 +1,27 @@
+
+p{
+    padding: 20px;
+    margin: 20px 10px
+}
+.p1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: #09C;
+}
+.p2{
+    
+    border: 15px double black;
+}
+.p3{
+    background-color: #0C9;
+    
+    border: 5px ridge #09C;
+    
+}.p4{
+    background-color: #0C9;
+    border: 5px outset #09C;
+}
+
+
+
+
